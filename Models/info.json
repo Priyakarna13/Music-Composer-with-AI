@@ -1,0 +1,26 @@
+[
+  {
+    "transformer2": 60
+  },
+  {
+    "transformer": 40
+  },
+  {
+    "inference": 1
+  },
+  {
+    "diffAttenmod128": 128
+  },
+  {
+    "diffmod128v2": 128
+  },
+  {
+    "diffmod128v1": 128
+  },
+  {
+    "diffmod128": 128
+  },
+  {
+    "diffmod1": 75
+  }
+]
